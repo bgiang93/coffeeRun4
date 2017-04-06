@@ -1,0 +1,36 @@
+{
+  "coffeeorders": [
+    {
+      "coffee": "testdsaf",
+      "emailAddress": "te2st@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "Skc5ZHQTe"
+    },
+    {
+      "coffee": "test",
+      "emailAddress": "test@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "HyYXfB7pg"
+    },
+    {
+      "coffee": "super strong coffee",
+      "emailAddress": "test@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "SkvDfSXpx"
+    },
+    {
+      "coffee": "test",
+      "emailAddress": "test@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "HkfnMSmTx"
+    }
+  ]
+}
